@@ -36,9 +36,5 @@ This project analyzes Twitter and Reddit data to uncover trends, public sentimen
 - Use advanced NLP models (e.g., BERT) for more accurate sentiment analysis
 - Dashboard integration with `Plotly` or `Streamlit`
 
-## 📝 License
-
-This project is open-source under the [MIT License](LICENSE).
-
 ---
 
